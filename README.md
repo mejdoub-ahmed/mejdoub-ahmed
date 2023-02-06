@@ -15,26 +15,28 @@
 <!--   <li>📫 Connect with me: **mejdoubahmed77@gmail.com** </li> -->
 </ul>
 
-## 
+
 <!-- 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-mejdoub-41929a11a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="img" height="30" width="40" /></a>
 </p>
- 
-##  -->
 
- 
+  
+##  -->
+## 📊 𝙼𝚢 GitHub Stats:
+
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mejdoub-ahmed&hide=issues&show_icons=true" alt="sameh-dh Github Stats">
+  <br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mejdoub-ahmed&hide=issues&show_icons=true" alt=" Github Stats">
 <!--     <p><img align="center" margin-bottom="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=mejdoub-ahmed&" alt="mejdoub-ahmed" /></p> -->
 </div><br />
 
-  
-<div align="center">
-<h1>
+  <h2>
  Languages and Tools:
-</h1>
+</h2>
+<div align="center">
+
 <!-- languages -->
 <div align="center">
   <p align="center">
@@ -189,6 +191,8 @@
         height="35"
       />
     </a>
+      
+      
 <!--     <a href="https://www.heroku.com">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/heroku/heroku-original-wordmark.svg"
@@ -209,23 +213,9 @@
    
   </p>
 </div>;
-
 </div>
 
   
 
 
-<!--
-**mejdoub-ahmed/mejdoub-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
