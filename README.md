@@ -16,14 +16,16 @@
 </ul>
 
 
-<!-- 
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ahmed-mejdoub-41929a11a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="img" height="30" width="40" /></a>
-</p>
+## 🤝 Connect with me:
 
-  
-##  -->
+<a href="https://twitter.com/Mejdoubahmed11/" target="blank">
+ <img align="left" alt="ahmed | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/ahmed-mejdoub-41929a11a/" target="blank"> <img align="left" alt="ahmed | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<br/>
+<br/>
+
+
 ## 📊 𝙼𝚢 GitHub Stats:
 
 <div align="center">
